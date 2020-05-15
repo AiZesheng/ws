@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	height: 100%;
+}
+body {
+	background: rgb(255,255,237);
+}
+.pull-right {
+	float: right;
+}
+.mt-60 {
+	margin-top: 0.6rem;
+}
+.first {
+	padding: 0.2rem;
+	font-size: 0.20rem;
+	color: rgb(254,125,136);
+}
+.star {
+	position: relative;
+	top: 0.05rem;
+	margin-right: 0.08rem;
+	display: block;
+	float: left;
+	height: 0.6rem;
+}
+.row {
+	height: 0.6rem;
+	opacity: 0;
+	transform: translateY(.6rem);
+	transition: all ease-in-out 1.5s;
+}
