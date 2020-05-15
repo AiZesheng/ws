@@ -28,7 +28,7 @@ body {
 	height: 0.6rem;
 }
 .row {
-	margin-bottom: 0.04rem;
+	margin-bottom: 0.08rem;
 	height: 0.6rem;
 	opacity: 0;
 	transform: translateY(.6rem);
